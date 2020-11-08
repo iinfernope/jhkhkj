@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Project2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="convert_to_celsius">Convert to Celsius</string>
+    <string name="convert_to_farenheit">Convert to farenheit</string>
+    <string name="temperature_conversion">Temperature Conversion</string>
+    <string name="textview">TextView</string>
+    <string name="insert_number_here">Insert Number Here</string>
+    <string name="convert_to_fahrenheit">convert to fahrenheit</string>
+    <string name="convert_to_kilometers">convert to kilometers</string>
+    <string name="convert_to_miles">convert to miles</string>
+    <string name="distance_conversion">Distance Conversion</string>
+    <string name="convert_to_celcius">convert to celcius</string>
+</resources>
